@@ -11,8 +11,8 @@ plugins:
   - serverless-offline
 
 # Uncomment to enable individual packaging
-# package:
-#   individually: true
+package:
+  individually: true
 
 provider:
   name: aws
